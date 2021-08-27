@@ -1,12 +1,12 @@
 {
   "naam": "Proces en methode voor de ontwikkeling en erkenning van data standaarden",
-  "rapport" : "",
-  "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
-  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "rapport": "",
+  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
   "publicatiedatum": "2018-05-22",
   "type_toepassing": "Pas toe of leg uit",
   "categorie": "Standaard vor organisatorische interoperabiliteit",
-  "beschrijving" : "proces-en-methode.md",
+  "beschrijving": "proces-en-methode.md",
   "specificatiedocument": [
     {
       "naam": "Proces en methode voor het ontwikkelen van een datastandaard (PDF)",
