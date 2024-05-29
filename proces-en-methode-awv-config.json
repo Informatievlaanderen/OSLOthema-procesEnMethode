@@ -1,29 +1,32 @@
 {
-  "naam": "Proces en methode voor de ontwikkeling en erkenning van data standaarden voor Agentschap Wegen en Verkeer",
-  "rapport": "",
-  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-  "publicatiedatum": "2018-05-22",
-  "type_toepassing": "Pas toe of leg uit",
-  "categorie": "Standaard vor organisatorische interoperabiliteit",
-  "beschrijving": "proces-en-methode.md",
-  "specificatiedocument": [
+  "title": "Proces en methode voor de ontwikkeling en erkenning van data standaarden voor Agentschap Wegen en Verkeer",
+  "category": "Standaard vor organisatorische interoperabiliteit",
+  "usage": "Pas toe of leg uit",
+  "status": "erkende-standaard",
+  "descriptionFileName": "proces-en-methode.md",
+  "responsibleOrganisation": [
     {
-      "naam": "Proces en methode voor het ontwikkelen van data standaarden voor wegenenverkeer.data.vlaanderen.be",
-      "waarde": "OSLO_Conformiteit_AWV_motiveren en uitleggen van afwijkingen.pdf"
+      "name": "Agentschap Digitaal Vlaanderen",
+      "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
     }
   ],
-  "documentatie": [],
-  "charter": [],
-  "verslagen": [
-
+  "publicationDate": "2018-05-22",
+  "specificationDocuments": [
+    {
+      "name": "Proces en methode voor het ontwikkelen van data standaarden voor wegenenverkeer.data.vlaanderen.be",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-procesEnMethode/standaardenregister/documents/OSLO_Conformiteit_AWV_motiveren en uitleggen van afwijkingen.pdf"
+    }
   ],
-  "presentaties": [
-
-  ],
-  "functioneel_toepassingsgebied": "Erkenningsprocedure voor datastandaarden in Vlaanderen",
-  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
-  "datum_van_aanmelding": "08 Maart 2018",
-  "erkenning_werkgroep_datastandaarden": "10 April 2018",
-  "erkenning_stuurgroep": "22 Mei 2018"
+  "documentation": [],
+  "reports": [],
+  "charter": {
+    "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-procesEnMethode/standaardenregister/charter/"
+  },
+  "presentations": [],
+  "dateOfRegistration": "08 Maart 2018",
+  "dateOfAcknowledgementByWorkingGroup": "10 April 2018",
+  "dateOfAcknowledgementBySteeringCommittee": "22 Mei 2018",
+  "repository": "OSLOthema-procesEnMethode",
+  "datePublicReviewStart": "",
+  "endOfPublicationDate": ""
 }
