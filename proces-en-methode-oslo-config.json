@@ -1,6 +1,6 @@
 {
   "title": "Proces en methode voor de ontwikkeling en erkenning van data standaarden",
-  "category": "Standaard vor organisatorische interoperabiliteit",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/OrganisatorischeInteroperabiliteit",
   "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/PasToeOfLegUit",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
   "descriptionFileName": "proces-en-methode-oslo.md",
